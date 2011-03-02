@@ -101,6 +101,7 @@ require 'rubyhaze/list'
 require 'rubyhaze/queue'
 require 'rubyhaze/topic'
 require 'rubyhaze/lock'
+require 'rubyhaze/id_generator'
 
 require 'rubyhaze/configs/group'
 require 'rubyhaze/configs/map'
